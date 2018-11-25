@@ -587,6 +587,9 @@ https://www.wihlidal.com/feed.xml programming graphics
 http://tonsky.me/blog/atom.xml programming
 http://dtrace.org/blogs/bmc/feed/ programming
 http://treyhunner.com/atom.xml programming python
+https://www.3dgep.com/feed/ programming graphics
+http://www.gijskaerts.com/wordpress/?feed=rss2 programming graphics
+https://www.superluminal.eu/feed/ programming
 
 #machine learning
 http://www.cleverhans.io/feed.xml machinelearning
@@ -601,6 +604,7 @@ https://distill.pub/rss.xml machinelearning
 http://www.wildml.com/feed/ machinelearning
 http://deliprao.com/feed machinelearning
 https://www.deeplearning.ai/feed/ machinelearning
+https://sgugger.github.io/feeds/all.atom.xml machinelearning
 
 # library feeds
 http://box2d.org/feed/
@@ -627,6 +631,7 @@ http://www.alistapart.com/feed/rss.xml web
 http://feeds.feedburner.com/24ways web
 http://fhtr.blogspot.com/feeds/posts/default web
 http://feeds.feedburner.com/csswizardrycom web
+http://feeds.feedburner.com/csswizardry web
 http://css-ig.net/rss/flux web
 http://feeds.feedburner.com/CssTricks web css
 http://feeds.feedburner.com/SimpleA11Y web accessibility
@@ -661,6 +666,7 @@ http://codepen.io/chriscoyier/blog/feed/ web
 http://feeds2.feedburner.com/tympanus web
 http://hugogiraudel.com/rss/ web
 https://www.w3.org/community/gpu/feed/ web
+https://daverupert.com/atom.xml web
 
 # sysadmin feeds
 http://blog.linuxmint.com/?feed=rss2 linux
@@ -706,7 +712,7 @@ http://www.fuzzyyellowballs.com/feed/ misc tennis
 http://blog.iphone-dev.org/rss misc
 http://croustination.com/feed/ misc
 http://dev.weechat.org/feed/atom misc
-http://feeds.feedburner.com/Explosm misc
+#http://feeds.feedburner.com/Explosm misc
 http://feeds.feedburner.com/codinghorror/ misc
 http://vimcasts.org/feeds/ogg misc vim
 http://ultimex.over-blog.com/rss-articles.xml misc
