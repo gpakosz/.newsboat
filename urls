@@ -492,8 +492,8 @@ http://blog.demofox.org/feed/ programming
 http://charlesleifer.com/blog/rss/ programming
 http://programmingisterrible.com/rss programming
 http://www.mr-edd.co.uk/rss.xml programming
-#http://www.bfilipek.com/feeds/posts/default programming
 http://feeds.feedburner.com/codeandgraphics programming
+http://www.bfilipek.com/feeds/posts/default programming
 https://procedural.github.io/feed.xml programming
 https://procedural.github.io/index.xml programming
 https://optimiserly.wordpress.com/feed/ programming
@@ -590,6 +590,20 @@ http://treyhunner.com/atom.xml programming python
 https://www.3dgep.com/feed/ programming graphics
 http://www.gijskaerts.com/wordpress/?feed=rss2 programming graphics
 https://www.superluminal.eu/feed/ programming
+https://blog.rust-lang.org/feed.xml programming rust
+https://abiondo.me/feed.xml programming
+http://nikhilism.com/index.xml programming
+https://pkeir.github.io/feed.xml programming
+http://daugaard.org/feed/ programming
+https://lxjk.github.io/rss/ programming
+https://pycoders.com/feed/bmtfgMEB programming
+http://www.gingerbill.org/article/index.xml programming
+https://yupferris.github.io/blog/feed.xml programming
+https://branchfree.org/feed/ programming
+https://giordi91.github.io/index.xml programming
+https://zalo.github.io/feed.xml programming
+https://auzaiffe.wordpress.com/feed/ programming graphics
+https://bheisler.github.io/index.xml programming
 
 #machine learning
 http://www.cleverhans.io/feed.xml machinelearning
@@ -605,6 +619,9 @@ http://www.wildml.com/feed/ machinelearning
 http://deliprao.com/feed machinelearning
 https://www.deeplearning.ai/feed/ machinelearning
 https://sgugger.github.io/feeds/all.atom.xml machinelearning
+https://medium.com/feed/@radekosmulski machine learning
+https://blog.ml.cmu.edu/feed/ machine learning
+https://medium.com/feed/@gidishperber machine learning
 
 # library feeds
 http://box2d.org/feed/
