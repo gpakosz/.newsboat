@@ -260,6 +260,7 @@ http://mudcu.be/journal/feed/ programming
 http://my.opera.com/Vorlath/xml/rss/blog/ programming
 http://my.opera.com/emoller/xml/rss/blog/ programming
 http://mynameismjp.wordpress.com/feed/ programming graphics
+https://therealmjp.github.io/posts/index.xml graphics
 http://ncannasse.fr/wiki/rss?path=blog programming
 http://nervedemosystem.blogspot.com/feeds/posts/default programming
 http://ochafik.free.fr/blog/?feed=rss2 programming
@@ -604,6 +605,23 @@ https://giordi91.github.io/index.xml programming
 https://zalo.github.io/feed.xml programming
 https://auzaiffe.wordpress.com/feed/ programming graphics
 https://bheisler.github.io/index.xml programming
+https://philippegroarke.com//posts/index.xml programming
+https://danengelbrecht.github.io/feed.xml programming
+https://travisdowns.github.io/feed.xml programming
+https://pdziepak.github.io/feed.xml programming
+https://ciechanow.ski/atom.xml programming graphics
+https://aschrein.github.io/feed.xml programming graphics
+https://raphlinus.github.io/feed.xml programming
+https://groups.google.com/forum/feed/pagedout-notifications/msgs/atom.xml?num=15 programming
+https://gamozolabs.github.io/feed.xml programming
+https://alain.xyz/rss programming graphics
+https://tratt.net/laurie/blog/entries.rss programming
+https://metalbyexample.com/feed/ programming graphics
+https://software.rajivprab.com/feed/ programming
+https://fasterthanli.me/index.xml programming
+https://thephd.github.io/feed.xml programming
+https://www.codeblueprint.co.uk/feed.xml programming
+https://blog.nelhage.com/atom.xml programming
 
 #machine learning
 http://www.cleverhans.io/feed.xml machinelearning
@@ -622,6 +640,10 @@ https://sgugger.github.io/feeds/all.atom.xml machinelearning
 https://medium.com/feed/@radekosmulski machine learning
 https://blog.ml.cmu.edu/feed/ machine learning
 https://medium.com/feed/@gidishperber machine learning
+https://machinetalk.org/feed/ machine learning
+
+# management feeds
+https://www.radicalcandor.com/feed/ management
 
 # library feeds
 http://box2d.org/feed/
@@ -684,6 +706,8 @@ http://feeds2.feedburner.com/tympanus web
 http://hugogiraudel.com/rss/ web
 https://www.w3.org/community/gpu/feed/ web
 https://daverupert.com/atom.xml web
+https://cssfromscratch.com/feed.xml web
+https://every-layout.dev/feed.xml web
 
 # sysadmin feeds
 http://blog.linuxmint.com/?feed=rss2 linux
@@ -951,7 +975,7 @@ http://www.dieantwoord.fr/feed/
 
 # deep learning
 https://medium.com/feed/@samim deep-learning
-http://gitxiv.com/feed.xml xiv
+#http://gitxiv.com/feed.xml xiv
 http://torch.ch/blog/feed.xml
 
 # dead feeds
