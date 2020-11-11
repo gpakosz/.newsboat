@@ -84,6 +84,7 @@ http://blog.selfshadow.com/feed/ programming graphics
 http://www.insomniacgames.com/category/research-development/feed/ programming
 http://blog.stevemcauley.com/feed/ programming graphics
 http://blogs.msdn.com/b/oldnewthing/rss.aspx programming favourite
+https://devblogs.microsoft.com/oldnewthing/feed programming favourite
 http://devmaster.net/posts.rss programming
 https://www.gamedev.net/articles/?rss=1 ~gamedev.net programming
 http://bartoszmilewski.wordpress.com/feed/ programming
@@ -195,7 +196,7 @@ http://flexmonkey.blogspot.com/feeds/posts/default programming
 http://flohofwoe.blogspot.com/feeds/posts/default programming
 http://forum.beyond3d.com/external.php?type=RSS2&forumids=22 programming
 http://forum.beyond3d.com/external.php?type=RSS2&forumids=42 programming
-http://fpcomplete.com/feed/ programming
+#http://fpcomplete.com/feed/ programming
 http://gameangst.com/?feed=rss2 programming
 http://gamearchitect.net/feed/ programming
 http://gamedevcoder.wordpress.com/feed/ programming
@@ -543,7 +544,7 @@ http://blog.tartanllama.xyz/feed.xml programming c++
 http://www.epicshaders.com/feed/ programming graphics
 https://daniel.haxx.se/blog/feed/ programming
 https://kosmonautblog.wordpress.com/feed/ programming graphics
-https://bulldozer00.com/feed/ programming
+#https://bulldozer00.com/feed/ programming
 http://nehe.gamedev.net/rss/ programming
 http://www.corsix.org/rss.xml programming
 https://www.fasterthan.life/blog?format=RSS programming graphics
@@ -568,7 +569,7 @@ https://medium.com/feed/@jamis programming
 http://thomaskole.nl/feed/ programming graphics
 https://dendibakh.github.io/feed.xml programming
 http://thomasdiewald.com/blog/?feed=rss2 programming graphics
-http://apoorvaj.io/feed.xml programming graphics
+https://apoorvaj.io/rss.xml programming graphics
 https://grahamhazel.com/blog/feed/ programming
 http://wwwtyro.net/feed.xml programming graphics
 https://code.visualstudio.com/feed.xml programming
@@ -622,6 +623,13 @@ https://fasterthanli.me/index.xml programming
 https://thephd.github.io/feed.xml programming
 https://www.codeblueprint.co.uk/feed.xml programming
 https://blog.nelhage.com/atom.xml programming
+http://schellcode.github.io/feed.xml programming
+https://xoofx.com/feed.xml programming
+https://jacco.ompf2.com/feed/ programming graphics
+https://maxliani.wordpress.com/feed/ programming graphics
+https://mischasan.wordpress.com/feed/ programming
+http://bitcharmer.blogspot.com/feeds/posts/default programming
+https://blog.jfo.click//feed.xml programming
 
 #machine learning
 http://www.cleverhans.io/feed.xml machinelearning
@@ -637,10 +645,13 @@ http://www.wildml.com/feed/ machinelearning
 http://deliprao.com/feed machinelearning
 https://www.deeplearning.ai/feed/ machinelearning
 https://sgugger.github.io/feeds/all.atom.xml machinelearning
-https://medium.com/feed/@radekosmulski machine learning
-https://blog.ml.cmu.edu/feed/ machine learning
-https://medium.com/feed/@gidishperber machine learning
-https://machinetalk.org/feed/ machine learning
+https://medium.com/feed/@radekosmulski machinelearning
+https://blog.ml.cmu.edu/feed/ machinelearning
+https://medium.com/feed/@gidishperber machinelearning
+https://machinetalk.org/feed/ machinelearning
+https://muellerzr.github.io/fastblog/feed.xml machinelearning
+https://www.justinpinkney.com/rss.xml machinelearning
+https://win-vector.com/feed/ machinelearning
 
 # management feeds
 https://www.radicalcandor.com/feed/ management
@@ -708,6 +719,7 @@ https://www.w3.org/community/gpu/feed/ web
 https://daverupert.com/atom.xml web
 https://cssfromscratch.com/feed.xml web
 https://every-layout.dev/feed.xml web
+https://blog.excalidraw.com/rss.xml web
 
 # sysadmin feeds
 http://blog.linuxmint.com/?feed=rss2 linux
@@ -742,7 +754,6 @@ http://www.essentialmath.com/blog/?feed=rss2 maths
 http://feeds.feedburner.com/matthen maths
 
 # misc feeds
-http://awomanwelove.tumblr.com/rss misc
 http://xkcd.com/atom.xml fun
 http://yieldthedog.github.com/atom.xml misc
 http://pempek.net/feed/
